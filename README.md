@@ -1,4 +1,3 @@
-The Trencher
 The Trencher is an AI-powered Twitter agent built to automate and simplify various tasks on Twitter. Whether you're looking to engage with users, schedule posts, or analyze tweet sentiment, The Trencher makes it easy and efficient.
 
 Features
